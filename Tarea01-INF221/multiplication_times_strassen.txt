@@ -1,0 +1,24 @@
+Order of Matrices: A(100x100) x B(100x100)
+Time taken: 2.526360 seconds
+
+Order of Matrices: A(100x50) x B(50x100)
+Time taken: 2.620964 seconds
+
+Order of Matrices: A(200x200) x B(200x200)
+Time taken: 17.913724 seconds
+
+Order of Matrices: A(200x150) x B(150x200)
+Time taken: 17.669644 seconds
+
+Order of Matrices: A(300x300) x B(300x300)
+Time taken: 124.416624 seconds
+
+Order of Matrices: A(300x250) x B(250x300)
+Time taken: 124.555813 seconds
+
+Order of Matrices: A(400x400) x B(400x400)
+Time taken: 124.007385 seconds
+
+Order of Matrices: A(400x350) x B(350x400)
+Time taken: 124.657517 seconds
+

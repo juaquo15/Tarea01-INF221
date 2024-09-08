@@ -1,0 +1,42 @@
+Order of Matrices: A(100, 100) x B(100, 100)
+Time taken: 0.074192 seconds
+
+Order of Matrices: A(100, 50) x B(50, 100)
+Time taken: 0.037002 seconds
+
+Order of Matrices: A(200, 200) x B(200, 200)
+Time taken: 0.664860 seconds
+
+Order of Matrices: A(200, 150) x B(150, 200)
+Time taken: 0.487147 seconds
+
+Order of Matrices: A(300, 300) x B(300, 300)
+Time taken: 2.199622 seconds
+
+Order of Matrices: A(300, 250) x B(250, 300)
+Time taken: 1.797446 seconds
+
+Order of Matrices: A(400, 400) x B(400, 400)
+Time taken: 5.165237 seconds
+
+Order of Matrices: A(400, 350) x B(350, 400)
+Time taken: 4.512139 seconds
+
+Order of Matrices: A(500, 500) x B(500, 500)
+Time taken: 10.568744 seconds
+
+Order of Matrices: A(500, 450) x B(450, 500)
+Time taken: 9.365395 seconds
+
+Order of Matrices: A(600, 600) x B(600, 600)
+Time taken: 18.371070 seconds
+
+Order of Matrices: A(600, 550) x B(550, 600)
+Time taken: 16.678059 seconds
+
+Order of Matrices: A(700, 700) x B(700, 700)
+Time taken: 28.663327 seconds
+
+Order of Matrices: A(700, 650) x B(650, 700)
+Time taken: 25.941370 seconds
+
